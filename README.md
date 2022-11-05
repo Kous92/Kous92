@@ -1,6 +1,10 @@
-### Bonjour, tout le monde 👋
+## 🇫🇷 Bonjour, tout le monde 👋
 
-Je suis Koussaïla BEN MAMAR et je suis développeur iOS (en natif avec Xcode et Swift). Je suis aussi un ingénieur jeune diplômé d'EFREI Paris. 
+Je suis Koussaïla BEN MAMAR et je suis développeur iOS. Je suis aussi ingénieur diplômé d'EFREI Paris.
+
+## 🇬🇧🇺🇸 Hello, everybody 👋
+
+I am Koussaïla BEN MAMAR and I am an iOS developer. I'm also a graduated engineer from EFREI Paris, in France.
 <!--
 **Kous92/Kous92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
